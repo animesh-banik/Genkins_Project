@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test  name = "exampletest1">
+      <classes>
+         <class name = "com.java.mavenproject.jenkinsproject.NewTest" />
+         <class name = "com.java.mavenproject.jenkinsproject.NewTest2" />
+      </classes>
+   </test>
+  </suite> 

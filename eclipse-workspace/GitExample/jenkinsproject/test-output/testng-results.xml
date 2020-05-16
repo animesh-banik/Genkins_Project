@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="141" started-at="2020-05-16T07:44:20Z" finished-at="2020-05-16T07:44:20Z">
+    <groups>
+    </groups>
+    <test name="exampletest1" duration-ms="141" started-at="2020-05-16T07:44:20Z" finished-at="2020-05-16T07:44:20Z">
+      <class name="com.java.mavenproject.jenkinsproject.NewTest2">
+        <test-method status="PASS" signature="test21()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest2@6ea12c19]" name="test21" duration-ms="3" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test21 -->
+        <test-method status="PASS" signature="test22()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest2@6ea12c19]" name="test22" duration-ms="3" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test22 -->
+      </class> <!-- com.java.mavenproject.jenkinsproject.NewTest2 -->
+      <class name="com.java.mavenproject.jenkinsproject.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest@7f560810]" name="beforeTest" is-config="true" duration-ms="33" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest2@6ea12c19]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest@7f560810]" name="test11" duration-ms="13" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest@7f560810]" name="test12" duration-ms="6" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest@7f560810]" name="afterTest" is-config="true" duration-ms="5" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.java.mavenproject.jenkinsproject.NewTest2@6ea12c19]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-05-16T13:14:20Z" finished-at="2020-05-16T13:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.java.mavenproject.jenkinsproject.NewTest -->
+    </test> <!-- exampletest1 -->
+  </suite> <!-- Suite -->
+</testng-results>
